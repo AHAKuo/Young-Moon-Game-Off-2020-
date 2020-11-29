@@ -1,0 +1,48 @@
+
+Mister Red Flyer.png
+size: 1909,1058
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes
+  rotate: false
+  xy: 2, 2
+  size: 658, 356
+  orig: 658, 356
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 360
+  size: 696, 696
+  orig: 696, 696
+  offset: 0, 0
+  index: -1
+Wing One
+  rotate: false
+  xy: 700, 612
+  size: 692, 444
+  orig: 692, 444
+  offset: 0, 0
+  index: -1
+Wing One 2
+  rotate: false
+  xy: 700, 166
+  size: 692, 444
+  orig: 692, 444
+  offset: 0, 0
+  index: -1
+Wing Two
+  rotate: false
+  xy: 1394, 532
+  size: 513, 524
+  orig: 513, 524
+  offset: 0, 0
+  index: -1
+Wing Two 2
+  rotate: false
+  xy: 1394, 6
+  size: 513, 524
+  orig: 513, 524
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+Young Light Resize.png
+size: 612,418
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 2, 2
+  size: 414, 432
+  orig: 414, 432
+  offset: 0, 0
+  index: -1
+Left
+  rotate: true
+  xy: 436, 186
+  size: 113, 115
+  orig: 113, 115
+  offset: 0, 0
+  index: -1
+Leg 1
+  rotate: true
+  xy: 436, 301
+  size: 115, 174
+  orig: 115, 174
+  offset: 0, 0
+  index: -1
+Leg 2
+  rotate: false
+  xy: 553, 95
+  size: 56, 204
+  orig: 56, 204
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 540, 18
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+Right
+  rotate: true
+  xy: 436, 21
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
